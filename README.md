@@ -39,6 +39,15 @@ https://github.com/Shreya007data/Playstore-Apps-Data-Analysis-Visualisation/asse
 
 ## About The Team :
 
+We are team Data Ninjas, passionate about telling stories from the data and taking the best insights do connect, network and collaborate.
+
+* [Shreya Srivastava](https://www.linkedin.com/in/shreyasri007/)
+
+* [Dwipanita Das ](https://www.linkedin.com/in/dwipanita-das/)
+
+* [Priyanka Sonawane](https://www.linkedin.com/in/priyanka-sonawane7/)
+
+* [Satya Yerraganti](https://www.linkedin.com/in/satya-yerragantidreams/)
 
 
 
