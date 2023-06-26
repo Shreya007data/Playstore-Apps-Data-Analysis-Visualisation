@@ -1,4 +1,8 @@
-# Playstore Apps Data Analysis & Visualisation
+# Playstore Apps Data Analysis & Visualization
+
+ ![playstore_app](https://github.com/Shreya007data/Playstore-Apps-Data-Analysis-Visualisation/assets/132162991/2e096e1e-4ee0-4c9d-936c-5b4e36edd996)
+
+
 ## About :
 This project is a real live Data Analysis challenge conducted by HiCounsellor on LinkedIn, with this live project opportunity, I have gained experience working with real-world databases. I participated along with my team of 3 Data Analysts (Team - Data Ninjas). We have worked as a team, beyond the different time zones problem, we have shown our teamwork, cross-functional, and communication skills perfectly here.
 
